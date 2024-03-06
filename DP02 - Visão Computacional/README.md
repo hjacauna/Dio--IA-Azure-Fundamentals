@@ -10,10 +10,10 @@ Utilizando esse recurso, é possível reconhecer um rosto. Ele verifica a delimi
 
 Para realizar o experimento, utilizamos o gerador de imagem do Bing com uma grande quantidade de indivíduos para verificar se havia um limite no reconhecimento de rostos. Os resultados obtidos foram os seguintes:
 
-Todos os rostos foram reconhecidos.
-Devido à qualidade da imagem, borrões foram erroneamente reconhecidos como máscaras.
-Também foi detectado que não estava sendo feita a cobertura adequada do nariz e da boca.
-O experimento foi divertido! Seria interessante testar outras combinações para verificar como a IA se comporta e, se possível, até mesmo desafiá-la.
+- Todos os rostos foram reconhecidos.
+- Devido à qualidade da imagem, borrões foram erroneamente reconhecidos como máscaras.
+- Também foi detectado que não estava sendo feita a cobertura adequada do nariz e da boca.
+- O experimento foi divertido! Seria interessante testar outras combinações para verificar como a IA se comporta e, se possível, até mesmo desafiá-la.
 
 ### Entrada
 
