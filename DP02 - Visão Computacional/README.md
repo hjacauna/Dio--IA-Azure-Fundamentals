@@ -74,6 +74,12 @@ Na proxima imagem, conseguimos enganar a ia, ela detectou o astrouna "pato" como
 
 <img align="right" src="https://github.com/hjacauna/Dio--IA-Azure-Fundamentals/blob/main/DP02%20-%20Vis%C3%A3o%20Computacional/output/detectando%20obj%20quebrei.png?raw=true" width=""/>
 
+## Extrair texto de imagens
+
+Nessa etapa utilizamos uma imagem gerada pela IA do bing a mesma trouxe uma cidade futuristica com caracteres em chines, e a IA consegui identificar o letreiro desemprego, algo muito surpreendente.
+
+<img align="right" src="https://github.com/hjacauna/Dio--IA-Azure-Fundamentals/blob/main/DP02%20-%20Vis%C3%A3o%20Computacional/output/ocr%20desemprego.png?raw=true" width=""/>
+
 # Considerações finais.
 
 O Azure Machine Learning se destaca como uma plataforma completa e poderosa para tarefas de visão computacional, oferecendo uma gama de recursos que permitem explorar diferentes aplicações com grande potencial. As considerações finais apresentadas servem como um guia para os próximos passos na jornada de aprendizado e utilização da plataforma.
