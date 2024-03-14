@@ -12,14 +12,21 @@ Neste recurso, a Inteligência Artificial analisa textos para descobrir o sentim
 ## Como funciona
 
 1. Acesse o **Language Studio** e vá para a guia _Classify test_.
+
 2. Clique na opção **Analyze sentiment and mine opinions**.
+
 3. Insira o texto manualmente ou selecione um arquivo.
+
    <img align="right" src="https://github.com/hjacauna/Dio--IA-Azure-Fundamentals/blob/main/Imagens/DP03/texto.png?raw=true" width=""/>
+
 4. O resultado mostrará a análise de sentimentos.
+
    <img align="right" src="https://github.com/hjacauna/Dio--IA-Azure-Fundamentals/blob/main/Imagens/DP03/analise%20texto.png?raw=true" width=""/>
+
 5. As entidades destacadas pelo modelo são exibidas, revelando o sentimento do texto.
+
    <img align="right" src="https://github.com/hjacauna/Dio--IA-Azure-Fundamentals/blob/main/Imagens/DP03/palavras%20chaves.png?raw=true" width=""/>
 
-## Considerações Finais
+# Considerações Finais
 
 Esse recurso oferece uma maneira ágil e simples para as empresas entenderem o sentimento dos clientes em relação aos seus produtos. Ele permite identificar o que os clientes gostaram ou não gostaram, bem como a probabilidade de eles voltarem a consumir o produto ou serviço. Essa compreensão possibilita uma reação rápida por parte da empresa, contribuindo para aprimorar a experiência do cliente e tomar decisões informadas.
