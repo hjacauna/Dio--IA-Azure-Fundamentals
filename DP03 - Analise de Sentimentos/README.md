@@ -9,7 +9,7 @@ Análise de Sentimentos com Language Studio </span>
 
 Através deste recurso a Inteligência Artificial analiza textos afim de descobrir o sentimento e satisfação do usuário que o escreveu, assim como as principais opiniões.
 
-### 01 - Dentro do Language Studio guia _Classify test_ clique na opção Analyze sentiment and mine opinions:
+### Dentro do Language Studio guia _Classify test_ clique na opção Analyze sentiment and mine opinions:
 
 Primeiro inserimos o texto ou digitando ou selecionando um arquivo
 
