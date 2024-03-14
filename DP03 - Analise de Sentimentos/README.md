@@ -13,7 +13,7 @@ Através deste recurso a Inteligência Artificial analiza textos afim de descobr
 
 Primeiro inserimos o texto ou digitando ou selecionando um arquivo
 
-<img align="right" src="https://https://github.com/hjacauna/Dio--IA-Azure-Fundamentals/blob/main/Imagens/DP03/texto.png?raw=true" width=""/>
+<img align="right" src="https://github.com/hjacauna/Dio--IA-Azure-Fundamentals/blob/main/Imagens/DP03/texto.png?raw=true" width=""/>
 
 Apos selecionar o texto escolhendo o idioma correto, e mostrado o resultado com a analise de sentimentos.
 
