@@ -25,4 +25,4 @@ No final e mostrado todas as entidades destacadas pelo modelo que foram analisad
 
 ## Considerações Finais
 
-Esse recurso oferece uma maneira ágil e simples para as empresas entenderem o sentimento dos clientes em relação aos seus produtos. Ele permite identificar o que os clientes gostaram ou não gostaram, bem como a probabilidade de eles voltarem a consumir o produto ou serviço. Essa compreensão possibilita uma reação rápida por parte da empresa, contribuindo para aprimorar a experiência do cliente e tomar decisões informadas .
+Esse recurso oferece uma maneira ágil e simples para as empresas entenderem o sentimento dos clientes em relação aos seus produtos. Ele permite identificar o que os clientes gostaram ou não gostaram, bem como a probabilidade de eles voltarem a consumir o produto ou serviço. Essa compreensão possibilita uma reação rápida por parte da empresa, contribuindo para aprimorar a experiência do cliente e tomar decisões informadas.
