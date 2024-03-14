@@ -12,15 +12,10 @@ Através deste recurso a Inteligência Artificial analiza textos afim de descobr
 ### Dentro do Language Studio guia _Classify test_ clique na opção Analyze sentiment and mine opinions:
 
 Primeiro inserimos o texto ou digitando ou selecionando um arquivo
-
 <img align="right" src="https://github.com/hjacauna/Dio--IA-Azure-Fundamentals/blob/main/Imagens/DP03/texto.png?raw=true" width=""/>
-
 Apos selecionar o texto escolhendo o idioma correto, e mostrado o resultado com a analise de sentimentos.
-
 <img align="right" src="https://github.com/hjacauna/Dio--IA-Azure-Fundamentals/blob/main/Imagens/DP03/analise%20texto.png?raw=true" width=""/>
-
 No final e mostrado todas as entidades destacadas pelo modelo que foram analisadas para detectar o sentimento do texto.
-
 <img align="right" src="https://github.com/hjacauna/Dio--IA-Azure-Fundamentals/blob/main/Imagens/DP03/palavras%20chaves.png?raw=true" width=""/>
 
 ## Considerações Finais
