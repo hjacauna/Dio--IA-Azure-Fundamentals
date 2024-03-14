@@ -5,18 +5,20 @@
 Análise de Sentimentos com Language Studio </span>
 </h1>
 
-## Analyze sentiment and mine opinions
+# Análise de Sentimentos com Language Studio
 
-Através deste recurso a Inteligência Artificial analiza textos afim de descobrir o sentimento e satisfação do usuário que o escreveu, assim como as principais opiniões.
+Neste recurso, a Inteligência Artificial analisa textos para descobrir o sentimento e a satisfação do usuário que os escreveu, bem como as principais opiniões.
 
-### Dentro do Language Studio guia _Classify test_ clique na opção Analyze sentiment and mine opinions:
+## Como funciona
 
-Primeiro inserimos o texto ou digitando ou selecionando um arquivo
-<img align="right" src="https://github.com/hjacauna/Dio--IA-Azure-Fundamentals/blob/main/Imagens/DP03/texto.png?raw=true" width=""/>
-Apos selecionar o texto escolhendo o idioma correto, e mostrado o resultado com a analise de sentimentos.
-<img align="right" src="https://github.com/hjacauna/Dio--IA-Azure-Fundamentals/blob/main/Imagens/DP03/analise%20texto.png?raw=true" width=""/>
-No final e mostrado todas as entidades destacadas pelo modelo que foram analisadas para detectar o sentimento do texto.
-<img align="right" src="https://github.com/hjacauna/Dio--IA-Azure-Fundamentals/blob/main/Imagens/DP03/palavras%20chaves.png?raw=true" width=""/>
+1. Acesse o **Language Studio** e vá para a guia _Classify test_.
+2. Clique na opção **Analyze sentiment and mine opinions**.
+3. Insira o texto manualmente ou selecione um arquivo.
+   <img align="right" src="https://github.com/hjacauna/Dio--IA-Azure-Fundamentals/blob/main/Imagens/DP03/texto.png?raw=true" width=""/>
+4. O resultado mostrará a análise de sentimentos.
+   <img align="right" src="https://github.com/hjacauna/Dio--IA-Azure-Fundamentals/blob/main/Imagens/DP03/analise%20texto.png?raw=true" width=""/>
+5. As entidades destacadas pelo modelo são exibidas, revelando o sentimento do texto.
+   <img align="right" src="https://github.com/hjacauna/Dio--IA-Azure-Fundamentals/blob/main/Imagens/DP03/palavras%20chaves.png?raw=true" width=""/>
 
 ## Considerações Finais
 
