@@ -18,7 +18,7 @@ Neste recurso, a Inteligência Artificial analisa textos para descobrir o sentim
 
 4. O resultado mostrará a análise de sentimentos.
 
-<img align="right" src="https://github.com/hjacauna/Dio--IA-Azure-Fundamentals/blob/main/Imagens/DP03/analise%20texto.png?raw=true" width=""/>
+<img align="right" src="https://github.com/hjacauna/Dio--IA-Azure-Fundamentals/blob/main/Imagens/LAB03/analise%20texto.png?raw=true" width=""/>
 
 5. As entidades destacadas pelo modelo são exibidas, revelando o sentimento do texto.
 
